@@ -2,47 +2,37 @@
   "basics": {
     "name": "Rachel Green",
     "label": "Student",
-    "picture": "https://rachelcgreen.github.io/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "picture": "https://rachelcgreen.github.io/images/20170825_190427.jpg",
+    "email": "rcgreen@hawaii.edu",
+    "phone": "406-270-8989",
+    "website": "https://rachelcgreen.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2019.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "96701",
+      "city": "Aiea",
       "countryCode": "USA",
       "region": "Hawaii"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "rachelcgreen",
+        "url": "http://github.com/rachelcgreen"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "rachel-green-993755146",
+        "url": "https://www.linkedin.com/in/rachel-green-993755146/"
       }
+      
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "wewb-development",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        
       ]
     },
     {
