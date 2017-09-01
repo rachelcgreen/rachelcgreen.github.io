@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/javascript-monitor.png
+image: images/javascript-monitor.jpg
 title: JavaScript
 permalink: projects/JS
 date: 2015
